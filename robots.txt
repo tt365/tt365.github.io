@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Disallow: /404.html
+
+Sitemap: http://www.tabletennis365.net/sitemap.xml

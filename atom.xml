@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>365乒乓网</title>
+  <subtitle>分享国球技巧，好用球拍，国际赛事，等等等</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.yorkcn.net/"/>
+  <updated>2016-12-15T21:37:15.000Z</updated>
+  <id>http://www.yorkcn.net/</id>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>乒乓球长胶技术大盘点</title>
+    <link href="http://www.yorkcn.net/long-pimple-techniques/"/>
+    <id>http://www.yorkcn.net/long-pimple-techniques/</id>
+    <published>2016-12-15T01:33:28.000Z</published>
+    <updated>2016-12-15T21:37:15.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>作为一名资深业余球友，小编直板正手反胶反面长胶。虽然主要用反胶那面，但也在不断摸索如何实用反面的长胶，下面给大家总结一下长胶的主要技术。</p>
+<p><img src="/images/tips/long-pimples/long-pimples.jpg" alt="Long pimples"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      乒乓球长胶技术大盘点
+    
+    </summary>
+    
+      <category term="技术" scheme="http://www.yorkcn.net/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="长胶" scheme="http://www.yorkcn.net/tags/%E9%95%BF%E8%83%B6/"/>
+    
+  </entry>
+  
+</feed>
